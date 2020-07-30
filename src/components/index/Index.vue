@@ -115,7 +115,7 @@
 			</table>
 			<div class="flex download">
 				<a href="https://itunes.apple.com/cn/app/metatrader-4/id496212596?mt=8" onclick="ga ('send','event','m_index',' download_ios ','content_first');" > <span>IOS版下载</span></a>
-				<a href="http://www.golday.hk/GoldayMT4.apk" onclick="ga ('send','event','m_index',' download_android ','content_second');"><span>Android版下载</span></a> 
+				<a href="https://www.golday.hk/GoldayMT4.apk" onclick="ga ('send','event','m_index',' download_android ','content_second');"><span>Android版下载</span></a>
 			</div>
 		</section>
 
